@@ -1,90 +1,50 @@
 {
   "products": [
     {
-      "id": 2,
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/2/1.jpg",
-        "https://cdn.dummyjson.com/product-images/2/2.jpg",
-        "https://cdn.dummyjson.com/product-images/2/3.jpg",
-        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
-      ]
+      "name": "ADFSDA2222",
+      "image": "data:image/jpeg;base64,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",
+      "price": "2134565",
+      "category": "2",
+      "id": 4
     },
     {
-      "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
-      "discountPercentage": 15.46,
-      "rating": 4.09,
-      "stock": 36,
-      "brand": "Samsung",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
+      "name": "idashoias",
+      "image": "https://scontent.fhan3-5.fna.fbcdn.net/v/t39.30808-6/425433228_715980344000208_3697495074696173143_n.jpg?stp=dst-jpg_p843x403&_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_aid=0&_nc_eui2=AeEHpOm1CwqVdvZX9WruF1ypaDJyyjbeCB5oMnLKNt4IHtpphHSoe4xbqdVdtneeJ_Y4rx9rOVPInIArpuNtMDQh&_nc_ohc=aIXg-g88h9cAX9RCG7S&_nc_zt=23&_nc_ht=scontent.fhan3-5.fna&oh=00_AfBkotGLTauD_PBKx4AxVY0ThhvAnuzPGlFNs07Q7XQAzA&oe=65C25C14",
+      "price": "33333",
+      "category": "2",
+      "id": 5
     },
     {
-      "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
-      "rating": 4.3,
-      "stock": 123,
-      "brand": "OPPO",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/4/1.jpg",
-        "https://cdn.dummyjson.com/product-images/4/2.jpg",
-        "https://cdn.dummyjson.com/product-images/4/3.jpg",
-        "https://cdn.dummyjson.com/product-images/4/4.jpg",
-        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
-      ]
+      "name": "ưqerthyr",
+      "image": "324t5ytr",
+      "price": "2222",
+      "category": "4",
+      "id": 6
     },
     {
-      "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/5/1.jpg",
-        "https://cdn.dummyjson.com/product-images/5/2.jpg",
-        "https://cdn.dummyjson.com/product-images/5/3.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "Apple",
-      "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/6/1.png",
-        "https://cdn.dummyjson.com/product-images/6/2.jpg",
-        "https://cdn.dummyjson.com/product-images/6/3.png",
-        "https://cdn.dummyjson.com/product-images/6/4.jpg"
-      ]
+      "name": "12e34553",
+      "image": "1235464532",
+      "price": "233",
+      "category": "2",
+      "id": 7
     }
   ],
-  "users": []
+  "categories": [
+    {
+      "name": "máy tính",
+      "id": 2
+    },
+    {
+      "name": "sp2",
+      "id": 3
+    },
+    {
+      "name": "ưertyte",
+      "id": 4
+    },
+    {
+      "name": "333",
+      "id": 5
+    }
+  ]
 }
